@@ -1,0 +1,11 @@
+﻿<solution>
+  <Task Id="0" MCP="1" Core="0" WCRT="109" />
+  <Task Id="1" MCP="0" Core="2" WCRT="3840" />
+  <Task Id="2" MCP="1" Core="3" WCRT="36" />
+  <Task Id="3" MCP="0" Core="1" WCRT="1621" />
+  <Task Id="4" MCP="1" Core="1" WCRT="288" />
+  <Task Id="5" MCP="1" Core="3" WCRT="336" />
+  <Task Id="6" MCP="0" Core="3" WCRT="306" />
+  <Task Id="7" MCP="1" Core="2" WCRT="2840" />
+  <Task Id="8" MCP="0" Core="0" WCRT="715" />
+</solution>
